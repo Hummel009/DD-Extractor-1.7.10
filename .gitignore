@@ -2,3 +2,6 @@
 **/**.jar
 **/**.exe
 **/summary.txt
+
+!**/decompilator.jar
+!**/deobfuscator.jar
