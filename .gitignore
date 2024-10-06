@@ -3,5 +3,5 @@
 **/**.exe
 **/summary.txt
 
-!**/decompilator.jar
-!**/deobfuscator.jar
+!data
+!forge
